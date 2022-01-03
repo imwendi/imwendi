@@ -6,7 +6,7 @@
 
 - 🎓 4<sup>th</sup> year Mechatronics Engineering (Hons) and Mathematics student at the University of Queensland
 - 🤖 Passionate about mathematics, deep learning and research
-- 😤 Still trying to get my engineering mates to actually use <img src="https://latex.codecogs.com/gif.latex?\text {\ \LaTeX }" style="background-color:white" />  
+- 😤 Still trying to get my engineering mates to actually use <img src="https://raw.githubusercontent.com/imwendi/TitleAnimation/master/images/latex.png" style="background-color:white" alt="$\LaTeX$"/>  
 
 
 ##  Stuff
@@ -17,7 +17,7 @@
     - ✒ Was a tech journalist in high school! Helped found TechFlow Media Group with some friends and later wrote for Tom's Hardware too
 - ⬛ Cool things I want to do
     - Choose a cool project for my undergrad thesis, and publish a paper on it
-    - Get into a leading AI/ML research lab for a PhD
+    - Get into a leading AI/ML research lab for my PhD
     - 😢 Buy a GPU at a non-scalped price so that I actually have enough memory to train vision models
 
 
