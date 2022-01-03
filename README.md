@@ -2,13 +2,17 @@
 
 ## About Me
 
-- 🎓 I'm in my 4<sup>th</sup> year of my Mechatronics Engineering (Hons) and Mathematics dual degre at The University of Queensland in :australia:
+- 🎓 4<sup>th</sup> year Mechatronics Engineering (Hons) and Mathematics student at the University of Queensland
 - 🤖 Passionate about mathematics, deep learning and research
 - Trying to get my engineering mates to use $\LaTeX$
 
-##  Some cool things I've done
+##  Cool things I've done
+- ☀ Worked on solar & battery system modelling at [Redback Technologies](https://redbacktech.com/)
+- 🧠 Applied complex-valued neural networks and dilated CNNs to MRI reconstruction for a research project.
+
 
 <!--
+
 **imwendi/imwendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
