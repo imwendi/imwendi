@@ -1,10 +1,17 @@
-# Hi, I'm Wendi
+# 👋 Hey, I'm Wendi
+
+## About Me
+
+- 🎓 I'm in my 4<sup>th</sup> year of my Mechatronics Engineering (Hons) and Mathematics dual degre at The University of Queensland in :australia:
+- 🤖 Passionate about mathematics, deep learning and research
+- Trying to get my engineering mates to use $\LaTeX$
+
+##  Some cool things I've done
 
 <!--
 **imwendi/imwendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
