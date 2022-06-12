@@ -17,8 +17,7 @@
     - ✒ Was a tech journalist in high school! Helped found TechFlow Media Group with some friends and later wrote for Tom's Hardware too
 - ⬛ Cool things I want to do
     - Choose a cool project for my undergrad thesis, and publish a paper on it
-    - Get into a leading AI/ML research lab for my PhD
-    - 😢 Buy a GPU at a non-scalped price so that I actually have enough memory to train vision models
+    - Get into a leading research lab for my PhD
 
 
 ## Get in touch
