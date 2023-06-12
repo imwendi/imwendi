@@ -4,19 +4,19 @@
 
 ## About Me
 
-- 🎓 4<sup>th</sup> year Mechatronics Engineering (Hons) and Mathematics student at the University of Queensland
-- 🤖 Passionate about mathematics, deep learning and research
+- 🎓 5<sup>th</sup> year Mechatronics Engineering (Hons) and Mathematics student at the University of Queensland
+- 🤖 Passionate about computer vision and deep learning research
 - 😤 Still trying to get my engineering mates to actually use <img src="images/latex.png" style="background-color:white" alt="$\LaTeX$"/>  
 
 
 ##  Stuff
 - ✅ Cool things I've done
+    - Working on Vision Transformers for my Honours thesis   
     - ☀ Created solar & battery system data models while interning at [Redback Technologies](https://redbacktech.com/)
     - 🧠 Worked on MRI image reconstruction for a research project. Explored some cool things like complex-valued neural networks, dilated CNNs and 2D Fourier Transforms
     - 👨‍🏫 Tutored 1<sup>st</sup> year uni classes for calculus, linear algebra and MATLAB
     - ✒ Was a tech journalist in high school! Helped found TechFlow Media Group with some friends and later wrote for Tom's Hardware too
 - ⬛ Cool things I want to do
-    - Choose a cool project for my undergrad thesis, and publish a paper on it
     - Get into a leading research lab for my PhD
 
 
