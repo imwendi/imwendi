@@ -1,3 +1,7 @@
+Hi, I'm Wendi!
+
+<!--
+
 <img src="https://raw.githubusercontent.com/imwendi/TitleAnimation/master/wendi_animation.gif" alt="Wendi Ma">
 
 # 👋 Hello there,
@@ -23,6 +27,8 @@
 ## Get in touch
 - Email
 `wendi.ma@uqconnect.edu.au`
+
+-->
 
 
 <!--
